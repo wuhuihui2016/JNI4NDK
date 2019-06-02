@@ -2,6 +2,8 @@
 
 android 通过NDK实现JNI
 
+https://github.com/wuhuihui2016/JNI4NDK.git
+
 Android JNI实现 - 简书：https://www.jianshu.com/p/bb77c6cfd23f
 
 JNI和NDK
